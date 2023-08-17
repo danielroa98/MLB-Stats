@@ -1,0 +1,24 @@
+[[pages]]
+path="main.py"
+name="Home"
+icon="🏟️"
+
+[[pages]]
+path="./pages/batting-stats.py"
+name="Batting"
+icon="⚾️"
+
+[[pages]]
+path="./pages/pitching-stats.py"
+name="Pitching"
+icon="🧢"
+
+[[pages]]
+path="./pages/team-stats.py"
+name="Team Statistics"
+icon="📊"
+
+[[pages]]
+path="./pages/about.py"
+name="About"
+icon="📓"
