@@ -19,3 +19,5 @@ ipython_config.py
 **/.DS_Store
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks
+*.ini
+*.toml
